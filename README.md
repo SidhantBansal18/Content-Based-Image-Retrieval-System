@@ -1,1 +1,2 @@
 # Content-Based-Image-Retrieval-System
+The goal of this project is to create a system that retrieves images based on various properties of the images and user feedback. This application will allow the users to retrieve images similar to a query/selected image according to their color codes or their intensities or a combination of both, on top of that it will also allow users to provide feedback which will help in improving the retrieval accuracy.
